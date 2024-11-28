@@ -1,6 +1,6 @@
 {
   "name": "@creatief/suisdk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Marketplace SDK for product management and transactions",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
